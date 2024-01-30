@@ -1,7 +1,7 @@
 # Robot Ignite Code Foundation for ROS Prerequisites Exam
 This repository contains the tasks  related to the Linux for Robotics course and Python for Robotics Course in The construct
 
-Part 1: Linux for Robotics
+# Part 1: Linux for Robotics
  Task 0
 Inside your workspace (~/catkin_ws/src/), create a new folder named linux_exam. Inside this folder you will place all the files required for the exam. The full path has to be like this:
 
